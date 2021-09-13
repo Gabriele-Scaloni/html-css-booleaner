@@ -1,0 +1,54 @@
+.prima-immagine {
+        background-color: royalblue;
+        height: 80px;
+        width: 100%;
+        
+}
+
+.logo {
+      width: 50px;
+      height: 50px;
+     }
+
+     #scritto-da{
+         font-family: cursive;
+         color: grey;
+         font-size: 10px;
+     }
+
+     #fonte{ 
+         font-family: cursive;
+         color: blue;
+         font-size: 10px;
+     }
+     #data{ 
+         font-family: cursive;
+         color: grey;
+         font-size: 10px;
+
+     }
+     .foto{  max-width: 250px;
+     }
+
+     #descrizione-foto{ 
+         font-size: 8px ;
+     }
+
+     .testo-evidenziato{
+         background-color: rgb(235, 235, 52);
+     }
+     .titolo-tabella{
+         text-align: left;
+         color: white;
+         background-color:rgb(89, 89, 238) ;
+
+     }
+     
+     .riga-evidenziata{
+         background-color: cadetblue;
+
+     }
+     
+    #ultima-section{
+        color: grey;
+    }
